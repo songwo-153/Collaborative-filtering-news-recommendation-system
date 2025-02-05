@@ -15,7 +15,7 @@ Java+SSM(Spring+SpringMVC+Mybatis)+Mysql基于用户的协同过滤算法个性�
 [后台在线演示地址:http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login](http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login)     
 
 ----------------------------------------------------------------------------------------
-#### 标题第二个新闻推荐系统:
+#### 第二个新闻推荐系统:
 [前台在线演示地址: http://1.95.71.218:8081/NewsRecommendOnline/](http://1.95.71.218:8081/NewsRecommendOnline/)      
   
 [后台在线演示地址：http://1.95.71.218:8081/NewsRecommendOnline/admin/login](http://1.95.71.218:8081/NewsRecommendOnline/admin/login)      
