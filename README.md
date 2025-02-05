@@ -7,15 +7,19 @@
 
 Java+SSM(Spring+SpringMVC+Mybatis)+Mysql基于用户的协同过滤算法个性化新闻推荐系统，采用基于用户、项目、内容、聚类、混合的协同过滤推荐算法。
 
+
+
 ## 项目在线演示地址：
+[（推荐用谷歌浏览器，服务器性能较差，访问有点慢）：
+前台在线演示地址：http://1.95.71.218:8090/WebNewsRecommendSystem/](http://1.95.71.218:8090/WebNewsRecommendSystem/) 
+   
+[后台在线演示地址:http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login](http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login)     
 
-[前台：http://124.71.65.53:8090/WebNewsRecommendSystem/](http://124.71.65.53:8090/WebNewsRecommendSystem/)  
+----------------------------------------------------------------------------------------
+
+[第二个新闻推荐系统:前台在线演示地址: http://1.95.71.218:8081/NewsRecommendOnline/](http://1.95.71.218:8081/NewsRecommendOnline/)      
   
-[后台：http://124.71.65.53:8090/WebNewsRecommendSystem/admin/login](http://124.71.65.53:8090/WebNewsRecommendSystem/admin/login)     
-
-[第二个新闻推荐项目前台演示地址（用谷歌浏览器）：http://124.71.65.53:8081/NewsRecommendOnline/](http://124.71.65.53:8081/NewsRecommendOnline/)      
-
-[第二个新闻推荐项目后台演示地址（用谷歌浏览器）：http://124.71.65.53:8081/NewsRecommendOnline/admin/login](http://124.71.65.53:8081/NewsRecommendOnline/admin/login)    
+[第二个新闻推荐系统：后台在线演示地址：http://1.95.71.218:8081/NewsRecommendOnline/admin/login](http://1.95.71.218:8081/NewsRecommendOnline/admin/login)      
 
 
  **源码获取：** [协同过滤算法新闻推荐系统源码](https://gitee.com/lixusadeng/Collaborative-filtering-news-recommendation-system/blob/master/%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%AE%97%E6%B3%95%E4%B8%AA%E6%80%A7%E5%8C%96%E6%96%B0%E9%97%BB%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81.zip)
