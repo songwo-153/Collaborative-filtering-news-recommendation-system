@@ -5,7 +5,7 @@
 #### 介绍
 基于协同过滤算法的个性化新闻推荐系统，使用了基于用户的协同过滤推荐算法，根据评分数据计算推荐，同时还使用了新用户喜好标签进行混合推荐，及将两种推荐结果全部输出，解决了冷启动和数据稀疏性问题。同时采用基于统计的热点推荐和相关推荐等。采用爬虫收集新闻数据实时更新新闻数据和推荐结果。
 
-Java+SSM(Spring+SpringMVC+Mybatis)+Mysql基于用户的协同过滤算法个性化新闻推荐系统，采用基于用户、项目、内容、聚类、混合的协同过滤推荐算法。
+Java语言SpringBoot和SSM(Spring+SpringMVC+Mybatis)两种框架实现+Mysql基于用户的协同过滤算法个性化新闻推荐系统，采用基于用户、项目、内容、聚类、混合的协同过滤推荐算法。
 
 
 
@@ -34,7 +34,7 @@ Java+SSM(Spring+SpringMVC+Mybatis)+Mysql基于用户的协同过滤算法个性�
 
 
 **1、开发工具和实现技术**
-IDEA，jdk1.8，mysql5.5/mysql8，navicat数据库管理工具，tomcat7，SSM（spring+springmvc+mybatis）开发框架，jsp页面，javascript脚本，jquery脚本，bootstrap前端框架，layer弹窗组件，webuploader文件上传组件等。
+IDEA，jdk1.8，mysql5.5/mysql8，navicat数据库管理工具，tomcat7，SpringBoot和SSM（spring+springmvc+mybatis）两种开发框架实现，javascript脚本，jquery脚本，bootstrap前端框架，layer弹窗组件，webuploader文件上传组件等。
 
 **2、项目功能**
 
